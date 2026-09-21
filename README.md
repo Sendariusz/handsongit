@@ -47,7 +47,7 @@
 
 1. Clone repository ini:
    ```bash
-   git clone (https://github.com/Sendariusz/handsongit.git)
+   git clone https://github.com/Sendariusz/handsongit.git
    ```
 2. Buka folder hasil clone, lalu klik dua kali file `index.html` (atau klik kanan → Open with → Browser).
 
